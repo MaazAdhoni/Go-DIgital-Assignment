@@ -1,2 +1,2 @@
-# Go-DIgital-Assignment
-Assignment By Maaz Adhoni for Go Digital
+This is the assignment for go digital done by Maaz Adhoni 
+
