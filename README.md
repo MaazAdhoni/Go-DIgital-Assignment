@@ -1,2 +1,2 @@
-This is the assignment for go digital done by Maaz Adhoni 
+This Project is done by Maaz Adhoni 
 
